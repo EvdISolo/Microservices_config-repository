@@ -3,7 +3,7 @@
 ## проверка работы через endpoint-ы после запуска
 
 Откройте в браузере: 
-http://localhost:8888
-http://localhost:8888/myapp/default
-http://localhost:8888/myapp/dev
+1) http://localhost:8888
+2 http://localhost:8888/myapp/default
+3) http://localhost:8888/myapp/dev
 
