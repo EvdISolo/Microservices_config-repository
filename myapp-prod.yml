@@ -1,0 +1,9 @@
+app:
+  name: "My Spring Boot App - PRODUCTION"
+  environment: "production"
+  message: "Hello from PRODUCTION environment!"
+  database:
+    url: "jdbc:mysql://prod-server:3306/prod_db"
+  feature-flags:
+    new-ui: false
+    debug-mode: false
