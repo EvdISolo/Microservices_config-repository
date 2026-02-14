@@ -1,0 +1,6 @@
+app:
+  name: "My Spring Boot App"
+  version: "1.0.0"
+  settings:
+    max-users: 100
+    timeout: 30
