@@ -1,0 +1,9 @@
+app:
+  name: "My Spring Boot App - DEV"
+  environment: "development"
+  message: "Hello from DEV environment!"
+  database:
+    url: "jdbc:mysql://localhost:3306/dev_db"
+  feature-flags:
+    new-ui: true
+    debug-mode: true
