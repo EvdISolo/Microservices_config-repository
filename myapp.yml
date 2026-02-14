@@ -1,6 +1,7 @@
 app:
   name: "My Spring Boot App"
   version: "1.0.0"
+  message: "Hello from Config Server!"
   settings:
     max-users: 100
     timeout: 30
