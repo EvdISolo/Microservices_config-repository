@@ -4,6 +4,6 @@
 
 Откройте в браузере: 
 1) http://localhost:8888
-2 http://localhost:8888/myapp/default
+2)  http://localhost:8888/myapp/default
 3) http://localhost:8888/myapp/dev
 
